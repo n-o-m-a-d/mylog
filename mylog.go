@@ -17,7 +17,7 @@ const (
 
 var (
     stdLog = NewConsoleLogger(INFO)                                                 // default is a console logger
-    levels = [...]string{"TRACE","DEBUG","INFO","WARN","ERROR","FATAL","*LOG"}
+    levels = [...]string{"TRACE","DEBUG","INFO","WARN","ERROR","FATAL"}
     timeformat = TIMEFORMAT
 )
 
