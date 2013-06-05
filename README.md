@@ -1,4 +1,4 @@
 mylog
 =====
 
-A very basic logger for golang
+A very basic logger for golang.
