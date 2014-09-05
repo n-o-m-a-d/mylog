@@ -42,4 +42,3 @@ log := mylog.NewFileLogger("filepathname",level)                    // see level
 
 
 log := mylog.NewLogger("filepathname" string,level)                 // creates a multiwriter that writes to both  "filepathname" and "os.Stdout"
-
